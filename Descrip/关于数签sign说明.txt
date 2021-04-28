@@ -1,275 +1,166 @@
-\123jiasu\ 			123¼ÓËÙä¯ÀÀÆ÷
-\360bizhi\ 			360±ÚÖ½
-\55Viewer\			55Viewer
-\66bizhi\			ÁïÁï±ÚÖ½£¨66±ÚÖ½£©
-\6789GameBox\			6789ÓÎÏ·ºĞ×Ó
-\6789Zip\			6789Ñ¹Ëõ
-\7654Browser\			7654ä¯ÀÀÆ÷
-\AntZip\ 			ÂìÒÏÑ¹Ëõ
-\AppInsghtesly\		¹ã¸æ³ÌĞòÏÂÔØÄ¿Â¼
-\AppleDrawing\			AppleDrawing
-\Avatder\			·çĞĞÊÓÆµ¼ÓËÙÆ÷
-\BaimaPdf\			°×ÂíPDF
-\baitushow\			°ÙÍ¼Ğã
-\bizhi\ 			Ğ¡Äñ±ÚÖ½
-\BirdWallpaper\ 		Ğ¡Äñ±ÚÖ½
-\Blue Eye Master\		À¶¹â»¤ÑÛ
-\BarleyShop\			Âó¼Ò¹ºÎïÖúÊÖ
-\buffaloCalendar\		Ë®Å£ÈÕÀú
-\ButflyImage\		ºûµû¿´Í¼
-\BXAudioConverter\		°ÙÑ¶ÒôÆµ×ª»»Æ÷
-\bzzhushou\			±ÚÖ½ÖúÊÖ
-\Cataclysmic\			Ms-Zip¹ã¸æÄ¿Â¼
-\ChanelPicture\			ChanelPicture
-\ColorfulPicture\		Æß²Ê¿´Í¼
-\ColorfulWiFi\			Æß²Êwifi
-\CubeWallpaper\			Ä§·½±ÚÖ½£¨ÊıÇ©´ı¶¨£©
-\CzPolicySvc\			½ñÈÕ¿´µã¡¢ÈÈµã×ÊÑ¶
-\CherryBlossoms\		¸ßĞ§ËÑË÷¹ã¸æÄ¿Â¼
-\CalfWallpaper\			Ğ¡Ïó±ÚÖ½
-\ChangLianWifi\			³©Á¬wifi
-\CloudZip\			CloudZip
-\ConchPicture\			º£Âİ¿´Í¼
-\ConchZip\			±´¿ÇÑ¹Ëõ
-\ConhZip\			±´¿ÇÑ¹Ëõ
-\DaydayAlarm\			ÌìÌìÄÖÖÓ
-\DaydayAlarmEx\			ÌìÌìÄÖÖÓ¹ã¸æÄ¿Â¼
-\DDesktopTools\			µãµã×ÀÃæ
-\DDPhoto\			¶à¶Ù¿´Í¼
-\DelphinWiFi\			º£ëàwifi
-\DMOPELL\			¼«ËÙËÑË÷Ïà¹Ø×é¼ş
-\DouMai\			¶¹Âó±Ê¼Ç
-\DBGHelp\			¿ì½İËøÆÁÏà¹Ø×é¼ş
-\DandelionWifi\			ÆÑ¹«Ó¢wifi
-\DsGameBox\			´üÊóÓÎÏ·ºĞ×Ó
-\EasyClip\			EasyClip
-\EasyPDF\			EasyPDF
-\ElephantPDF\			´óÏóPDF
-\EsayDrawing\			EsayDrawing
-\EyesGuardCn\			Eyes±£»¤Ê¦
-\eyesprite\			»¤ÑÛ¾«Áé
-\EfficientSearch\		¸ßĞ§ËÑË÷
-\EMTree\			¼òÒ×¼ÇÊÂ±¾¹ã¸æÄ¿Â¼
-\ENotepad\			¼òÒ×¼ÇÊÂ±¾×é¼şÄ¿Â¼	
-\ExData\			¼òÒ×¼ÇÊÂ±¾×é¼şÄ¿Â¼
-\ENote\				¼òÒ×¼ÇÊÂ±¾
-\fastpdf\			ÔÆ¶¯PDF
-\Fastpic\			¼«ËÙ¿´Í¼
-\FastSearch\			¿ìËÙËÑË÷
-\faststart\			FastStart
-\fengchaobizhi\			·ä³²±ÚÖ½
-\FileAssistor\			FileAssistor
-\FileSearch\			ÎÄ¼şËÑË÷
-\flyfish\			flyfish
-\flysvr\			»ğÓ©ÊÓÆµ×ÀÃæ×é¼ş
-\FlowerShopAssistant\		»¨¹ºÖúÊÖ
-\fslocal\			¼«ËÙËÑË÷¹ã¸æÄ¿Â¼
-\FrameTach\			¸ßĞ§ËÑË÷Ïà¹Ø×é¼ş
-\FeiRar\			·ÉÑ¹
-\FeiSuZip\			·ÉËÙÑ¹Ëõ
-\FibreFlowerWifi\		Âé»¨wifi
-\FeiSuPDF\			·ÉËÙPDF
-\FsZip\				FsZip
-\FtpySer\			Î´Öª¹ã¸æ×é¼ş
-\FuLiQuan\			¸£ÀûÈ¯
-\fypdfr\			¼òÒ×PDF
-\FYScreenshot\		FYScreenshot
-\GeekZip\			¼«¿ÍÑ¹Ëõ
-\GreenZip\			GreenZip
-\GSoInput\			¼«ËÙÊäÈë·¨Ä¿Â¼
-\hylite\			»ğÓ©ÊÓÆµ×ÀÃæ
-\HYFastSide\			»ğÓ©ÊÓÆµ×ÀÃæ×é¼ş
-\HYNotepad\			ºÃÓÃ¼ÇÊÂ±¾
-\Heinote\			Ğ¡ºÚ¼ÇÊÂ±¾
-\HermClock\			HermClock
-\HermClockEx\			HermClock¹ã¸æÄ¿Â¼
-\HaloDesktop\			º£Âİ×ÀÃæ
-\HaoKanWallPaper\		ºÃ¿´±ÚÖ½
-\HaoKnWallPaper\		ºÃ¿´±ÚÖ½
-\HaoTuKanKan\			ºÃÍ¼¿´¿´		
-\HKWallPaper\			ºÃ¿´±ÚÖ½
-\HtPlay\			C Player
-\HttpSvrt\			¹ã¸æ³ÌĞòÄ¿Â¼
-\hdwwp\				ÁïÁï±ÚÖ½£¨66±ÚÖ½£©
-\ikantu\			°®¿´Í¼
-\ILoveImage\			52¿´Í¼
-\InkImg\			Ë®Ä«¿´Í¼
-\IBoFang\			IBoFang
-\iEyePicture\			iEyePicture
-\ImageClip\			ÇĞÍ¼´óÊ¦
-\IMagnifier\ 			IMagnifier
-\iPDF\				ÔÆÉÏPDF
-\ITextEditor\			ITextEditor
-\itv\				iËÑÓ°
-\idesk\				iDeskÖúÊÖ
-\ILocalPlayer\			ILocalPlayer
-\izip\				°®Ñ¹Ëõ£¨iZip£©
-\JfSearch\			¼«·çËÑË÷
-\JGBYPC\			¼¤¹â²¶Óã¹ã¸æ	
-\JiJianFormwork\		¼«¼ò°ì¹«Ä£°å
-\JiSuSearch\			¼«ËÙËÑË÷
-\JikePDF2\			¼´¿ÌPDF
-\JikePDFConverter\		¼´¿ÌPDF×ª»»Æ÷
-\JiKePDFReader\			¼´¿ÌPDFÔÄ¶ÁÆ÷
-\JinSPDFReader\			½ğËÙPDFÔÄ¶ÁÆ÷
-\JingJianZip\			¾«¼òÑ¹Ëõ
-\JPPDFConvert\			¼«Æ·PDF×ª»»Æ÷
-\JpPicture\			¼«Æ·¿´Í¼Íõ
-\JTWallpaper\			½¹ÌÇ±ÚÖ½
-\JuzipClock\			JuzipClock
-\¾¨²Ê±ÚÖ½\			¾¨²Ê±ÚÖ½
-\k52zip\			52ºÃÑ¹
-\¿ìÑ¹\				¿ìÑ¹
-\¿ì¿ìÑ¹Ëõ\			¿ì¿ìÑ¹Ëõ
-\KeepHelp\			¼òÒ×¼ÇÊÂ±¾×é¼şÄ¿Â¼
-\KingMemo\			KingMemo
-\KJFileLocker\			¿ì½İÎÄ¼şËø
-\kjminipage\			¿ì½İÎÄ¼şËø¹ã¸æÄ¿Â¼
-\kjplug\			¿ì½İÎÄ¼şËø×é¼ş
-\kjupgrade\			¿ì½İÎÄ¼şËø×é¼ş
-\KoalaWall\			¿¼À­±ÚÖ½
-\KuaisuGameAccelerator\		¿ìËÙÍøÓÎ¼ÓËÙÆ÷
-\KyPicture\			¿ìÔÄ¿´Í¼Íõ
-\LanyuInMind\			LanyuInMind
-\LDSGameMaster\			ÊÖ»úÄ£Äâ´óÊ¦
-\lds\LDSShellExt\		Ğ¡Äñ±ÚÖ½ÓÒ¼ü²Ëµ¥
-\LazyWifi\			ÀÁÈËwifi
-\LittlePicture\			ÃÔÄã¿´Í¼Íõ
-\Local\finder\			¹âËÙËÑË÷
-\Local\minin\			½ñÈÕÈÈµã
-\Local\modelp\			¹ã¸æ³ÌĞòÄ¿Â¼
-\Local\WeiDuan\			ÓÎÏ·Î¢¶ËÄ¿Â¼
-\À×ÉñÑ¹Ëõ\			À×ÉñÑ¹Ëõ
-\MagicToolKit\			MagicToolKit
-\MasterPDF\			Ñ¸¶ÁPDF´óÊ¦
-\MasterPDFData\			Ñ¸¶ÁPDF´óÊ¦¹ã¸æÄ¿Â¼
-\MFileMgr\			M-ÎÄ¼ş¹ÜÀíÆ÷
-\mfmminipage\			M-ÎÄ¼ş¹ÜÀíÆ÷¹ã¸æ×é¼ş
-\MGWallpaper\			Ä¢¹½±ÚÖ½
-\MicroCool\			Î¢¿áPDF
-\MicrosofService\		ENote¹ã¸æ³ÌĞòÄ¿Â¼
-\MiniInpaint\			Ë®Ó¡Î¢¹Ü¼Ò
-\Minority\			Ms-Zip¹ã¸æÄ¿Â¼
-\MkCool\			Î¢¿áPDF
-\MobileEmuMaster\		ÊÖ»úÄ£Äâ´óÊ¦
-\MoMiao\			Ä§ß÷±ÚÖ½
-\MoMiaoNew\			Ä§ß÷±ÚÖ½
-\mousemenu\			mousemenu
-\Ms-Zip\			Ms-Zip
-\Mtkantu\			Ã¿Ìì¿´Í¼
-\MiaoRar\			ÃëÑ¹
-\MiaoRar2\			ÃëÑ¹
-\Microsoft\Windows\Templates\	Í¨É±³£¼ûµÄdllhost.exeÆô¶¯µÄ¼Æ»®ÈÎÎñ¹ã¸æ³ÌĞò
-\MJShop\			Âó¼Ò¹ºÎïÖúÊÖ
-\NarcissusWiFi\			Ë®ÏÉwifi
-\NestWiFi\			·ä³²Wi-Fi
-\NewNotebook\			ĞÂ¼ÇÊÂ±¾
-\NewsMini\			¹ã¸æ³ÌĞò½ñÈÕÈÈµã
-\newsminin\			¹ã¸æ³ÌĞò½ñÈÕÈÈµã
-\NiuXiaoQuan\			Å£Ğ¡È¯
-\OriginPDFReader\		ÆğµãPDFÔÄ¶ÁÆ÷
-\OrangeZip\			OrangeZip
-\PandaPDF\			ĞÜÃ¨PDF
-\PandPdf\			ĞÜÃ¨PDF
-\PDFConverter\			PDF×ª»»Æ÷
-\PGYWifi\			ÆÑ¹«Ó¢wifi
-\photoviewer\			ABC¿´Í¼
-\PicView\			ĞÇĞÇ¿´Í¼
-\PPTMoudle\			PPTÄ£°å´óÊ¦
-\ptsandf\			PPTÄ£°å´óÊ¦¹ã¸æ
-\Public\Documents\		Í¨É±Î¢ĞÅË«¿ª¸÷°æ±¾
-\PuddingDesktop\		²¼¶¡×ÀÃæ
-\PuddingZip\			²¼¶¡Ñ¹Ëõ
-\QiKe\				Ææ¿ÍPDF
-\QiKeZip\			Ææ¿ÍÑ¹Ëõ
-\QiaoZip\			ÇÉÑ¹
-\QiEImage\			Æó¶ì¸ßÇå¿´Í¼
-\QkeImage\			Æó¶ì¸ßÇå¿´Í¼
-\QingFengPicture\		Çà·ä¿´Í¼
-\QingJiePdf\			Çá½İPDF
-\QingYaZip\			ÇáÑ¹Ñ¹Ëõ
-\QSPDFReader\			ÇáËÙPDFÔÄ¶ÁÆ÷
-\QWallpaper\			Q°æ±ÚÖ½
-\ReadWell\			ºÃºÃ¿´Êé
-\Roaming\bzzs\			±ÚÖ½ÖúÊÖ
-\Roaming\config\		ÇĞÍ¼´óÊ¦Ïà¹ØÄ¿Â¼
-\Roaming\cert\			ÇĞÍ¼´óÊ¦Ïà¹ØÄ¿Â¼
-\Roaming\data\			ÇĞÍ¼´óÊ¦Ïà¹ØÄ¿Â¼
-\Roaming\tx\			RoamingÄ¿Â¼ÏÂµÄÆæ¿ÍPDF×ª»»Æ÷
-\Roaming\Convert\		Ñ¸¶ÁPDF´óÊ¦×é¼ş
-\RnonWiFi\			Ğ¡ä½ĞÜwifi
-\SaiTaoTao\			ÈüÌÔÌÔ¹ºÎïÖúÊÖ
-\SeagullWallpaper\		º£Å¸±ÚÖ½
-\search616\			ÎÄ¼şËÑË÷
-\ShadowSaver\			ShadowSaver
-\ShanOcr\			ShanOcr
-\SharkPhoto\			öèÓã¿´Í¼
-\ShiningZip\			ÉÁÑ¹Ëõ
-\SizeAssistant\			Ğ¡ÃÀ³ßÂë
-\SmallTreesPDF\			Ğ¡Ê÷PDF
-\SmallTreePDF\			Ğ¡Ê÷PDF
-\SmartInput\			ÖÇÄÜÔÆÊäÈë·¨
-\SmartLook\			ÍòÏóÔ¤ÀÀ
-\SmartWBInput\			ÖÇÄÜÔÆÎå±Ê
-\SnowFalling\			SnowFalling
-\speedImage\			RNG¿´Í¼
-\SpOpen\			windows_¼òµ¥ÌìÆø
-\SWebHelp\			¼«ËÙËÑË÷Ïà¹Ø×é¼ş
-\ScreenSaver\			¿ì½İËøÆÁ
-\screenocr\			screenocr
-\ShellWiFi\			±´¿Çwifi
-\SkyPicture\			ĞÇ¿Õ¿´Í¼
-\SPWY\				ÊÓÆµÎŞÓÇ
-\SSLocal\			¿ì½İËøÆÁ¹ã¸æÄ¿Â¼
-\StarCloudZip\			ĞÇÔÆÑ¹Ëõ
-\StarWifi\			StarWifi
-\SuGouShop\			ËÙ¹ºÖúÊÖ
-\SWebDrive\			¸ßĞ§ËÑË÷Ïà¹Ø×é¼ş
-\SwiftImage\			·äÄñ¿´Í¼
-\SwiftImg\			·äÄñ¿´Í¼
-\tinybird\			Ğ¡Äñ±ÚÖ½
-\TuJiTV\			ÍÃ¼¸Ö±²¥
-\TSBrowser\			¼«ËÙä¯ÀÀÆ÷
-\TTnote\			À¶ÃÎ¼ÇÊÂ
-\TaoShopAssistant\		ÌÔ¹ºÖúÊÖ
-\vdesk\				Ğ¡Ş±×ÀÃæ
-\visionmanagersoft\		ÊÓÁ¦¹Ü¼Ò
-\vitalwallpaper\		ÔªÆø±ÚÖ½
-\wADaiPictureToText\		ADaiPictureToText
-\WanMeiZip\			ÍêÃÀÑ¹Ëõ
-\WanNengZip\			ÍòÄÜÑ¹Ëõ
-\WanPicture\			ÍòÄÜ¿´Í¼Íõ
-\WanMeiSeeImage\		ÍêÃÀ¿´Í¼
-\weiku\			Î¢¿áPDF
-\WellHost\			ºÃºÃ¿´Êé×é¼ş
-\WIFIInspector\			Ñó´Ğwifi
-\WindowMergecy\			¸ßĞ§ËÑË÷×é¼ş
-\WinInsignty\			¹ã¸æ³ÌĞòÏÂÔØÄ¿Â¼
-\WnPDFReader\			ÍòÄÜPDFÔÄ¶ÁÆ÷
-\WBService\			¼òÒ×¼ÇÊÂ±¾¹ã¸æÄ¿Â¼
-\WorthyShop\			Öµ¹ºÖúÊÖ
-\WxOpen\			Î¢ĞÅ¶à¿ªºĞ
-\xbpic\			Ğ¡°×¿´Í¼
-\xiaoyu\			Ğ¡Óã±ãÇ©
-\xinnote\			Ğ¡ĞÂ¼ÇÊÂ±¾
-\XinSuZip\			ĞÂËÙÑ¹Ëõ
-\XiangCaoWifi\			Ïã²İwifi
-\XsPicture\			ĞÇËÙ¿´Í¼Íõ
-\XZWallpaper\			ĞäÕä±ÚÖ½
-\YiiMiZip\			Ò»Ã×Ñ¹Ëõ
-\YouJianDaShi\			ÓÒ¼ü¹Ü¼Ò
-\YouXiangWiFi\			ÓÅÏíwifi£¨ÊıÇ©´ı¶¨£©
-\YunTXT\			ÔÆ¼ÇÊÂ±¾
-\YunMiniInfo\			ÔÆ¼ÇÊÂ±¾¹ã¸æ×é¼ş
-\YENote\			ÓÅÒ×Ìù
-\YZBiZhi\			èÖ×Ó±ÚÖ½
-\YZWallpaper\			èÖ×Ó±ÚÖ½
-\ZPDFEdit\			×ª×ª´óÊ¦PDF±à¼­Æ÷
-\ZZDS\				×ª×ª´óÊ¦PDF×ªWord
-\ZHPDFReader\			ÖĞ»ªPDFÔÄ¶ÁÆ÷
-\ZHWorkKit\			ÖĞ»ª°ì¹«Ä£°å
-\ZhongHuaPdf\			ÖĞ»ªPDFÔÄ¶ÁÆ÷
-\ZhongXiangWiFi\		ÖÚÏíÃâ·Ñwifi
-\ZheGouZhuShou\			ÕÛ¹ºÖúÊÖ
-\zmassist\			¹ã¸æ³ÌĞòÄ¿Â¼
-\zShut\				Juzip¶¨Ê±¹Ø»ú
+ï»¿Anhui Shabake Network Technology	é«˜é€Ÿä¸‹è½½å™¨
+Beijing Yundongshidai Network Technology	é«˜é€Ÿä¸‹è½½å™¨
+Shanghai XuSong investment partnership Enterprise	é«˜é€Ÿä¸‹è½½å™¨
+Tuling Times Information Technology			é«˜é€Ÿä¸‹è½½å™¨
+Guangdong Fengqi Technology				é«˜é€Ÿä¸‹è½½å™¨		
+Ningbo Runji Network Technology	é«˜é€Ÿä¸‹è½½å™¨
+ä¸Šæµ·å‰‘å§¬ç½‘ç»œç§‘æŠ€	é«˜é€Ÿä¸‹è½½å™¨
+é‡åº†å¤©æé­…å®¢ç§‘æŠ€	é«˜é€Ÿä¸‹è½½å™¨
+å®æ³¢æ¶¦å‰ç½‘ç»œç§‘æŠ€	é«˜é€Ÿä¸‹è½½å™¨
+å®‰å¾½é¾™è®¯ç½‘ç»œç§‘æŠ€	å¥½ç”¨è®°äº‹æœ¬
+å®‰å¾½ç£çŸ³æ˜Ÿç©ºç§‘æŠ€	è˜‘è‡å£çº¸ã€æµ·è±šwifiã€æ˜Ÿäº‘å‹ç¼©ã€èµ›æ·˜æ·˜è´­ç‰©åŠ©æ‰‹ã€æ˜Ÿç©ºçœ‹å›¾
+åŒ—äº¬å¸ƒä¸		åŒ…å«å¸ƒä¸è·³è·³ã€å¸ƒä¸è·‘è·‘ç³»åˆ—è½¯ä»¶ï¼Œå¦‚éº¦å®¶è´­ç‰©åŠ©æ‰‹ã€è’²å…¬è‹±WiFiã€å¸ƒä¸æ¡Œé¢ã€å¸ƒä¸å‹ç¼©ã€æ™ºèƒ½äº‘è¾“å…¥æ³•ã€æŸšå­å£çº¸ã€å¿«é˜…çœ‹å›¾ç‹ã€é‡‘é€ŸPDFé˜…è¯»å™¨
+åŒ—äº¬å°æ ‘å‘èŠ½ç½‘ç»œç§‘æŠ€	å¥½çœ‹å£çº¸ã€å°æ ‘PDFã€fastwifiã€å·§å‹ã€æ–°è®°äº‹æœ¬ï¼ˆNewNotebookï¼‰ã€å¥½å¥½çœ‹ä¹¦ï¼ˆReadWellï¼‰
+åŒ—äº¬åç½‘æ™ºè®¯ä¿¡æ¯	ä¸­åPDFé˜…è¯»å™¨ã€ä¸­ååŠå…¬æ¨¡æ¿
+åŒ—äº¬å…°ä¼šæ—¶å…‰ç§‘æŠ€	æŠ¤çœ¼ç²¾çµ
+åŒ—äº¬ç¾å±ä¼ åª’	titan
+åŒ—äº¬æº±æ´§æ³½æºªç½‘ç»œç§‘æŠ€	ç±³å…”ç²¾å“æ¸¸æˆç›’
+æˆéƒ½ç›Ÿè¯ºå•†åŠ¡å’¨è¯¢æœåŠ¡	æé€Ÿè¾“å…¥æ³•JSInput
+æˆéƒ½ä»²å¯ç½‘ç»œç§‘æŠ€	å°å¨éšç§ç®¡å®¶ã€è±Œè±†å¿«æœ
+æˆéƒ½å¸‚é¢–æ‚Ÿç½‘ç»œç§‘	é­”å–µå£çº¸ï¼ˆMoMiaoï¼‰
+æˆéƒ½æ¸¸éŸ§å¤©ä¸‹ç½‘ç»œç§‘æŠ€	äº‘è®°äº‹æœ¬ï¼ˆYunTXTï¼‰
+æ²§å·æˆ˜æ–§ç½‘ç»œç§‘æŠ€	é£é€ŸPDFã€å¾®å‹
+æ²§å·å¥å·ç½‘ç»œç§‘æŠ€	GreenZipã€CloudZip
+æ²§å·å¾®é…·ç½‘ç»œç§‘æŠ€	å¾®é…·PDFï¼ˆMicroCoolï¼‰ã€ç•…è¿wifiã€52çœ‹å›¾
+é‡åº†è¶£æ¢ç§‘æŠ€		æ˜“ç®€æ—¥å†ã€OrangeZip
+é‡åº†å¸‚æ§åå•†åŠ¡å’¨è¯¢	KingMemoã€Qç‰ˆå£çº¸
+é‡åº†æ—­ç™»ä»ªå™¨ä»ªè¡¨	ITextEditorã€AppleDrawing
+æ¥šå®¬å•†åŠ¡å’¨è¯¢æœåŠ¡ï¼ˆæ­¦æ±‰ï¼‰	LanyuInMind
+ç¦å»ºæ™ºåº¦ç§‘æŠ€		ç§’å‹
+é£å°šäº‘èµ·æ–‡åŒ–ä¼ åª’	6789å‹ç¼©ã€äº‘è®°äº‹æœ¬
+ä½›å±±å¸‚é‘«å“è®¯è½¯ä»¶ç§‘æŠ€	123åŠ é€Ÿæµè§ˆå™¨
+å¹¿å·åå¤šç½‘ç»œç§‘æŠ€	æœªçŸ¥å¹¿å‘Šç¨‹åº
+å¹¿å·å¯åˆ›ä¿¡æ¯æŠ€æœ¯	è¶…å‹
+å¹¿å·å¤©è¡Œå®¢ç½‘ç»œç§‘æŠ€	äº‘éª‘å£«ã€éŸ©åšå£«ã€é»‘é²¨ã€å°é±¼ã€å°ç†Šã€å°ç™½ç­‰ä¸€ç³»åˆ—ä¸€é”®é‡è£…å·¥å…·
+åˆè‚¥äº‘è¡¨ä¿¡æ¯ç§‘æŠ€	è¡¨æƒ…åŠ©æ‰‹ã€Chromeå®‰å…¨æµè§ˆå™¨
+åˆè‚¥ä¸¤è°¢ç½‘ç»œä¿¡æ¯	StarWifiã€å®Œç¾çœ‹å›¾ã€å®Œç¾å‹ç¼©
+æµ·å—è®­è‹±å•†è´¸		é›·éœ†å‹ç¼©å¹¿å‘Šç¨‹åº	
+æ­å·ä¹å¤©ç½‘ç»œä¿¡æ¯æŠ€æœ¯	è±†éº¦ç¬”è®°
+æ­å·å‡¤ä¾ ç½‘ç»œç§‘æŠ€	æ¸¸ä¾ æ—¥å†
+æ­å·è‡³æµç§‘æŠ€		å¥‡å®¢PDFè½¬æ¢å™¨	
+æ¹–åŒ—ç¿°è¾‰ä¼ä¸šç®¡ç†å’¨è¯¢	SnowFallingã€Juzipå®šæ—¶å…³æœºï¼ˆzshutï¼‰ã€ChanelPicture
+é»„å†ˆè…¾ç‘ç½‘ç»œç§‘æŠ€ä¸­å¿ƒ	æ¯æ—¥å£çº¸ã€å¤©å¤©é—¹é’Ÿ
+æ·®å®‰æˆæ€ç§‘æŠ€		ç†ŠçŒ«PDFã€è´å£³å‹ç¼©ã€ä¸ƒå½©wifi
+æµ·å—ä¹é±¼äº’åŠ¨ç½‘ç»œç§‘æŠ€	ä¹é±¼é…·æœ
+æ±Ÿè‹çµåŒ ä¿¡æ¯ç§‘æŠ€	æµæ˜ŸåŠ é€Ÿå™¨
+è¿äº‘æ¸¯åšç„¶ç½‘ç»œç§‘æŠ€	å¿«æ·æ–‡ä»¶é”ï¼ˆKJFileLockï¼‰ã€MFileMgr
+èŒ‰æŸæ˜ï¼ˆä¸Šæµ·ï¼‰è½¯ä»¶ç§‘æŠ€	æé€Ÿçœ‹å›¾
+å—äº¬æ™¨æ›¦ç½‘ç»œç§‘æŠ€	æ—‹é£PDF
+å—é€šç™¾ç‘ç½‘ç»œç§‘æŠ€	å³åˆ»çœ‹å›¾
+å—äº¬å‹ä¸ºæ–°ç½‘ç»œæŠ€æœ¯	å¿«æœæ¡Œé¢ã€å¿«å¿«å‹ç¼©
+å—é˜³å¤šç«¹ç½‘ç»œç§‘æŠ€	ç®€æ˜“è®°äº‹æœ¬ï¼ˆENoteï¼‰
+ä¸Šæµ·é“æ–‡ä¿¡æ¯æŠ€æœ¯	Ms-Zip
+ä¸Šæµ·æœè‰¾ç½‘ç»œç§‘æŠ€	å£çº¸åŠ©æ‰‹
+ä¸Šæµ·æ¸¸åˆ›ç½‘ç»œç§‘æŠ€	ç©æ¸¸æˆç›’
+ä¸Šæµ·å±•ç›Ÿç½‘ç»œç§‘æŠ€	å°é»‘è®°äº‹æœ¬ã€å°é±¼ä¾¿ç­¾ã€Finderã€ABCçœ‹å›¾ã€7654æµè§ˆå™¨
+ä¸Šæµ·é’æ£ç½‘ç»œç§‘æŠ€	å¥½å›¾çœ‹çœ‹ã€å°è±¡å£çº¸
+ä¸Šæµ·å¹¿ä¹ç½‘ç»œç§‘æŠ€	å¿«å‹
+ä¸Šæµ·èŒæ ¼ç”µå­å•†åŠ¡	å¿«é€Ÿè½¯ä»¶åŠ©æ‰‹ã€é…·é›·å‹ç¼©ã€FileAssistorã€å°ç™½çœ‹å›¾
+ä¸Šæµ·æ›²åˆç½‘ç»œç§‘æŠ€	è¶£å‹ã€commanderã€è“å…‰æŠ¤çœ¼å¤§å¸ˆ
+ä¸Šæµ·æ°¸æ¥šç½‘ç»œç§‘æŠ€	æ‹·è´å…”
+ä¸Šæµ·åˆå¯¿å¼˜æ­£ä¼šåŠ¡	ä¸‡è±¡é¢„è§ˆ
+ä¸Šæµ·å¤œåŠç§‘æŠ€ä¿¡æ¯æŠ€æœ¯	å¤§è±¡PDFã€LazyWifiã€ä¸‡èŠ±åŠ¨æ€å£çº¸ã€ç®€æ˜“PDFï¼ˆEasyPdfï¼‰ã€èš‚èšå‹ç¼©ï¼ˆAntZipï¼‰
+ä¸Šæµ·è·ƒå®¢ç½‘ç»œç§‘æŠ€	ILocalPlayerã€HermClockã€IMagnifier
+ä¸Šæµ·å˜‰ç¾è¯ºè½¯ä»¶æŠ€æœ¯ä¸­å¿ƒ	èŠéº»è¾“å…¥æ³•
+ä¸Šæµ·ç¦æ¬£ç½‘ç»œç§‘æŠ€	é›·ç¥å‹ç¼©ã€å°æ–°è®°äº‹æœ¬ã€é²¸å½©å£çº¸ã€è½»æ·PDF
+ä¸Šæµ·é¡¿å¤šç½‘ç»œç§‘æŠ€	å¤šé¡¿çœ‹å›¾
+ä¸Šæµ·å½±åŒç½‘ç»œç§‘æŠ€	ScreenOCRã€å¿«é€Ÿæœç´¢ï¼ˆfastsearchï¼‰ã€miniwifiã€èœ‚å·¢å£çº¸ã€é¼ æ ‡å³é”®èœå•ç®¡ç†
+ä¸Šæµ·è¯ºéŸ¦ç½‘ç»œç§‘æŠ€	é¦™è•‰æ‚¦è¯»
+ä¸Šæµ·é©¬é½¿è‹‹ç§‘æŠ€		é²¨é±¼çœ‹å›¾
+ä¸Šé¥¶å¸‚é£äº‘ç½‘ç»œç§‘æŠ€	newnoteã€faststartã€æç®€ä¾¿ç­¾
+å››å·æ‚ é—²çš„ç†ŠçŒ«ç½‘ç»œç§‘æŠ€	æ·˜è´­åŠ©æ‰‹ã€èµ·ç‚¹PDFã€è¿·ä½ çœ‹å›¾ç‹ã€æ°´ä»™wifiã€èµ·ç‚¹PDFè½¬æ¢å™¨ã€ç²¾ç®€å‹ç¼©
+å››å·é½é‘«ç½‘ç»œç§‘æŠ€	è´è¶çœ‹å›¾
+å››å·æ¯”ä»·å…”ç½‘ç»œç§‘æŠ€	è€ƒæ‹‰å£çº¸ã€ç‰›å°åˆ¸ã€æå“çœ‹å›¾ç‹ã€ä¼—äº«å…è´¹wifi
+æ·±åœ³å¸‚é»„è±†æ³¡æ³¡ç§‘æŠ€	è±†å‹
+æ·±åœ³å¸‚å…‹ç½—å§†ç§‘æŠ€	fcc001
+æ·±åœ³å¸‚ä¼˜å¼ˆç§‘æŠ€		å¹¿å‘Šç¨‹åº
+æ·±åœ³å¸‚å”¯é“ƒç§‘æŠ€		ç™¾å›¾ç§€
+æ·±åœ³å¸‚é‡è¯šè¿œé¡ºç§‘æŠ€	æç®€æ¨¡æ¿
+æ·±åœ³å¸‚è±¡å¡”ç§‘æŠ€		æé€Ÿæµè§ˆå™¨ï¼ˆTSBrowserï¼‰
+å®¿è¿æ¼¾å½©è½©å•†è´¸		C Playerï¼ˆHtPlayï¼‰
+è‹å·å¥‡å®¢ä¹æ€ç½‘ç»œç§‘æŠ€	é›·éœ†å‹ç¼©
+ç”œç“œï¼ˆä¸Šæµ·ï¼‰ä¿¡æ¯æŠ€æœ¯	èŠ±çŒ«æ–—å›¾
+å¤©æ´¥çŠç‘šä¿¡æ¯ç§‘æŠ€	å°é¸Ÿå£çº¸
+å¤©æ´¥é€Ÿè¯»ç§‘æŠ€		è¿…è¯»PDFå¤§å¸ˆ
+å¤©æ´¥è¿…è¯»ç§‘æŠ€		è¿…è¯»PDFå¤§å¸ˆã€æ˜“ææ•°æ®æ¢å¤
+å¤©æ´¥æä»æ¡‰ç§‘æŠ€		èœ‚ç«ç²¾çµæ¨¡æ‹Ÿå™¨ã€å¯†é½¿ç§äººæ–‡ä»¶æŸœã€æé£æœç´¢
+æ­¦æ±‰è‹ç‰™ç½‘ç»œç§‘æŠ€	ä¸€ç±³å‹ç¼©ã€æ°´å¢¨çœ‹å›¾ã€èœ‚å·¢Wi-Fi
+æ­¦æ±‰é‡‘ç‰æ—¶ç½‘ç»œç§‘æŠ€	å¦‚æ„ä¾¿ç­¾
+æ­¦æ±‰åŒè¿›ç§‘æŠ€		é’ç«¹é€‰è‰²å™¨ã€éšå¿ƒæ—¥å†
+æ­¦æ±‰å·¨åšä¼˜ç§‘æŠ€		ä¸Šæµ·å±•ç›Ÿå¹¿å‘Š
+æ­¦æ±‰å‡¯ä½³å¥¥ç§‘æŠ€		ä»Šæ—¥è®°è´¦
+æ­¦æ±‰å¾çŸ¥æ‹æ•™è‚²å’¨è¯¢		FYScreenshot
+æ­¦æ±‰ä¼—åˆäº’å¨±ç½‘ç»œç§‘æŠ€	éº»èŠ±æ—¥å†
+æ­¦æ±‰ç»­è¾¾ç§‘æŠ€		è¶£å‹ç¼©ï¼ˆAmusingzipï¼‰
+æ­¦æ±‰é‘«åšä¼Ÿç§‘æŠ€		ä¼˜æ˜“è´´ã€æ˜ç‰åŠ¨æ€æˆªå±
+æ­¦æ±‰è‹Ÿå¯Œè´µç½‘ç»œç§‘æŠ€	FileAssortSearch
+å¨å°”é˜³ï¼ˆæ­¦æ±‰ï¼‰ä¿¡æ¯æŠ€æœ¯	å¥¶æ²¹ä¾¿ç­¾
+è¥¿å®‰å¸‚æ²£ä¸œæ–°åŸå”¯è¯ºé¡¿ä¿¡æ¯ç§‘æŠ€å·¥ä½œå®¤	EasyClip
+è¥¿å®‰ç‚«è®¯ç½‘ç»œç§‘æŠ€	å¾®ä¿¡åŒå¼€
+å¦é—¨å¸æ˜“é‘«è½¯ä»¶ç§‘æŠ€	å…­å…­è®°äº‹æœ¬
+èˆŸå±±ä¸™ç«ç½‘ç»œç§‘æŠ€	å°æµ£ç†ŠWiFiã€èœ‚é¸Ÿçœ‹å›¾ã€é—ªå‹ç¼©
+ç æµ·å¸‚å†…ç»´æ·¼ç§‘æŠ€	AlphaSE Chromeå®‰å…¨æµè§ˆå™¨
+æµ™æ±Ÿè‡ªè´¸åŒºè€€å…‰ç½‘ç»œç§‘æŠ€	  é£äº‘å‹ç¼©ã€é£å½±çœ‹å›¾ç‹
+Anhui Aiqi Network Technology			çˆ±å‹ç¼©ï¼ˆiZipï¼‰
+Beijing AoLanDe Information Technology			äº‘åŠ¨PDF
+Beijing Funshion Online	  			é£è¡Œè§†é¢‘åŠ é€Ÿå™¨
+Beijing Jiexun Cloud Network Technology		LookEverythingã€å¤©å–»éŸ³é¢‘è½¬æ¢å™¨
+Beijing HuiZhuGongYing Technology Development	é£å‹å‹ç¼©
+Beijing CloudStory Inc				æ¡Œé¢æ—¥å†
+Chongqing Aibeibei Technology 			é£ç±³å‹ç¼©
+Chongqing Xudeng Instrument			EvaPicture
+Chongqing Chenyixuan Technology			ResManagerResã€StarEditor
+Chongqing Jinghua Xulian Technology			æå®¢å‹ç¼©
+Chongqing Jiuqu Network Technology		Explorer++ã€å‰å‰èµ„æºç®¡ç†å™¨ã€GifRecord
+Chongqing Minjue Science and Technology		I-FileManagerã€JuzipClock
+Fashion cloud culture media			6789zip
+Fashion Cloud Culture Media			6789æ¸¸æˆç›’å­
+Fuzhou Zhongyi culture media			éº»èŠ±wifiã€è¢–çå£çº¸ã€é€Ÿè´­åŠ©æ‰‹ã€æ˜Ÿé€Ÿçœ‹å›¾ç‹ã€é£é€Ÿå‹ç¼©ã€è½»é€ŸPDFé˜…è¯»å™¨
+He Fei Yun Biao					æé€Ÿè¾“å…¥æ³•GsoInputã€äº‘ä¸ŠPDFã€äº‘ä¸Šå‹ç¼©ã€å°è±¡è®°äº‹æœ¬ã€å°è–‡æ¡Œé¢ã€é­”æ–¹ç¾å›¾ã€è§†é¢‘æ— å¿§
+Hefei Yunbiao					åŒä¸Šã€‚	
+Hubei KuKan Technology				é…·çœ‹ç²¾é€‰å£çº¸
+Hubei Yinyue Ecommerce				ä¼˜å…”çœ‹å›¾
+Hunan Jiayue Kaitai Electronic Commerce		windows_ç®€å•å¤©æ°”
+IVY (ShenZhen) Software Technology		ChromeCoreæµè§ˆå™¨
+J.onaxh Network Technology			VpingsåŠ¨æ€è§†é¢‘æ¡Œé¢è½¯ä»¶ã€ç«è¤è§†é¢‘æ¡Œé¢
+Kunshan Longbo Information Technology		å¿«æ·é”å±ã€åˆ‡å›¾å¤§å¸ˆ
+Kashi Guangxun Network Technology		ä¼ªoffice365
+Ma'anshan Qisi Network Technology		é¢„ç«‹é—¹é’Ÿ
+Nanjing BaiZeyou Network Technology		æ˜Ÿæ˜Ÿçœ‹å›¾
+Nanjing Yingxing Network			å°ç¾å°ºç 
+Nanjing Wenle Network Technology		ç‚«å½©ä¾¿ç­¾
+Nanchang Xianyang Network Technology		æ°´ç‰›æ—¥å†ï¼ˆbuffaloCalendarï¼‰
+Qingdao Kunru Information Technology		è“æ¢¦è®°äº‹ã€é£é±¼ç¬”è®°ã€è§†åŠ›ç®¡å®¶
+Shanghai Doukaijing Network Technology		å…¨èƒ½çœ‹å›¾ã€ç½‘è´­ä¼˜æƒ åˆ¸å®¢æˆ·ç«¯
+Shanghai DingXuan Technology 			Eyesä¿æŠ¤å¸ˆã€æ°´å°å¾®ç®¡å®¶ã€ä¾¿æºè®°äº‹æœ¬ï¼ˆwdbbookï¼‰ã€KangImageã€smallerpdf
+Shanghai Oriental Webcasting			ä¸œæ–¹è¾“å…¥æ³•ã€ä¸‡èƒ½äº”ç¬”ã€ä¸‡èƒ½çœ‹å›¾ç‹ã€ä¸‡èƒ½å‹ç¼©ã€ä¸‡èƒ½æ¸¸æˆç›’ã€èŠ±è´­åŠ©æ‰‹ã€å…”å‡ ç›´æ’­ã€ç„¦ç³–å£çº¸ã€é¦™è‰wifiã€å¿«é€Ÿç½‘æ¸¸åŠ é€Ÿå™¨ã€ä¸‡èƒ½PDFé˜…è¯»å™¨
+Shang Hai Shen Wei Wang Luo Ke Ji		ç®€å‹å‹ç¼©
+Shanghai Youbu Network Technology		å°ç†Šæ—¥å†	
+Shang Hai Zi Wei Wang Luo Ke Ji			å¿«é—ªå‹ç¼©ã€é£äº‘PDFã€MagicToolkit
+Shang Hai Jing Ke Wang Luo Ke Ji		æ¸¸æˆç›’å­
+Shanghai zaimeng information technology		365çœ‹å›¾
+Shanghai Guosui Network Technology		æ–‡ä»¶æœç´¢
+Shanghai Hewei Information Technology		æ¡Œé¢å£çº¸ã€çˆ±çœ‹å›¾
+Shanghai Lezhan Information Technology		FsZip
+Shanghai Mengge Ecommerce			FileAssistor
+Shanghai Quhe Network Technology		è“å…‰æŠ¤çœ¼å¤§å¸ˆ
+Shanghai Yicen Network Technology		æå“PDFè½¬æ¢å™¨
+Shanghai Yingshuang Network Technology		åŒä¸Šæµ·å½±åŒç½‘ç»œç§‘æŠ€
+Shanghai Yangtu Baozhen Network Technology	è¯—è¯å¿«æŸ¥ï¼ˆpoemDCï¼‰
+Shanghai YouXin Media Studio			TTnoteã€ç™½é©¬PDFã€flyfishã€RNGçœ‹å›¾ï¼ˆSpeedImageï¼‰
+Shanghai Youwo Information Technology		æ¸¸çªç›’å­
+Shanghai Yuesong Information Technology		æ¯å¤©çœ‹å›¾
+Shaoxing Yaogang Network Technology		ADaiPictureToTextã€ShanOcr
+Sichuan Ouding Software Technology		æµ·èºçœ‹å›¾ã€è´å£³wifiã€è½»å‹å‹ç¼©ã€ç¦åˆ©åˆ¸ï¼ˆFuLiQuanï¼‰ã€è¢‹é¼ æ¸¸æˆç›’å­
+Sichuan Weima Network				ä¼˜äº«wifiã€é’èœ‚çœ‹å›¾ã€æŠ˜è´­åŠ©æ‰‹ã€å…ƒæ°”å£çº¸
+Sichuan Zhiling Times Network Technology	å€¼è´­åŠ©æ‰‹ã€æ–°é€Ÿå‹ç¼©ã€åšæœwifi
+Sichuan Zhiling Shidai Network Technology	ä¸ƒå½©çœ‹å›¾ã€æµ·é¸¥å£çº¸
+Shenzhen Youyou Technology			6ç©æ¸¸æˆå¤§å…
+Shenzhen Chongcheng Yuanshun Technolog		æç®€æ¨¡æ¿ã€å³åˆ»PDF
+Suzhou Dongyou Network Technology		å¾®ä¿¡å¤šå¼€ç›’
+United Group (Beijing) Network Technology	èšä¼—æ–‡ä»¶é”ã€äº¿è¿…å›¾ç‰‡è½¬æ¢å™¨ã€åæ·å›¾ç‰‡è½¬æ¢å™¨ã€ç™¾è®¯éŸ³é¢‘è½¬æ¢å™¨
+Wuhan Yuyajie Network Technology		XJFileLock
+Xingning Suya				é€Ÿå‹
+Xi an haofeng Information Technology		iDesk
+Xi'an Listen Snow Network Technology		iæœå½±ï¼ˆitvï¼‰
+Zhengzhou Juruxin Network and Technology  	IECode
